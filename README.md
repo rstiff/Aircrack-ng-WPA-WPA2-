@@ -47,7 +47,13 @@ Equitment used
 
 
 
-Example attack on a WPA/WPA2 network
+
+
+
+
+
+
+
 
 
 
