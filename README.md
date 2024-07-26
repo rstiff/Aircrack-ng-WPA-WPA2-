@@ -118,7 +118,8 @@ first is the 4-wayhanshake in the terminal.
 
 
 
-![image](https://github.com/user-attachments/assets/9fa0228c-14f1-4360-bef0-a994e73b0b1b)
+![image](https://github.com/user-attachments/assets/b5215784-fa2a-4837-b8c0-cd37ef150015)
+
 
 
 
@@ -128,6 +129,46 @@ Second is to make sure at least one device is connected to the specified network
 
 
 ![image](https://github.com/user-attachments/assets/bc6988be-b47e-4be3-8c70-4b3e1967af5e)
+
+
+
+
+
+
+Lastly we need to make a passwords.txt file so we can have the
+common passowrds list to crack the router. The purpose of this step
+is to actually crack the WPA/WPA2 pre-shared key.
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/b5dec1cf-534d-45fd-be26-22427ebf4dbb)
+
+
+
+
+
+
+
+
+Here is the cracked password
+
+Note: Im using my original password on my router so 
+its just numbers
+
+
+
+![image](https://github.com/user-attachments/assets/08cc640a-96d6-4c90-849f-5faff9a98ce2)
+
+
+
+
+
+
+
+
+
 
 
 
