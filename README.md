@@ -102,8 +102,42 @@ encryption: it also tells us the encryption type
 
 
 
-one thats done and you find your network that you are on then
+once thats done and you find your network that you are on then
 you can use this command to collect the authentication handshake. The purpose of this is to capture the 4-way authentication handshake for the network we are intrestend in.
+
+
+Now im going to open up wireshark and type 'eapol' in the top search bar in wireshark. Eapol is 
+
+
+
+there are two things that you should see...
+
+
+first is the 4-wayhanshake in the terminal.
+
+
+
+
+![image](https://github.com/user-attachments/assets/9fa0228c-14f1-4360-bef0-a994e73b0b1b)
+
+
+
+
+Second is to make sure at least one device is connected to the specified network and to make sure that the eapol command works like this...
+
+
+
+![image](https://github.com/user-attachments/assets/bc6988be-b47e-4be3-8c70-4b3e1967af5e)
+
+
+
+
+
+
+
+
+
+
 
 
 
