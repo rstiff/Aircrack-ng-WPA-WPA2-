@@ -33,7 +33,15 @@ what is WPA2
 
 
 
-WPA2 networks are more secure and 
+WPA2 networks are more secure and are what most people use for there networks as well. WPA2 networks provide stronger data protection and network access control. As well WPA2 supports AES(Advanced Encryption Standard) encryption, wich is more secure tham TKIP.
+
+
+
+Example attack on a WPA/WPA2 network
+
+
+
+
 
 
 
