@@ -102,6 +102,18 @@ encryption: it also tells us the encryption type
 
 
 
+one thats done and you find your network that you are on then
+you can use this command to collect the authentication handshake. The purpose of this is to capture the 4-way authentication handshake for the network we are intrestend in.
+
+
+
+
+
+
+
+
+
+
 
 
 
