@@ -17,6 +17,33 @@ WPA/WPA2 networks
 
 
 
+WPA/WPA2 networks use pre-shared keys and aircrack-ng can only crack
+pre-shared keys. 
+
+
+
+what is WPA 
+
+
+WPA(Wi-Fi protected access) is imporved data encryption compared to WEP.
+
+
+
+what is WPA2
+
+
+
+WPA2 networks are more secure and 
+
+
+
+
+
+
+
+
+
+
 
 
 
