@@ -37,7 +37,18 @@ WPA2 networks are more secure and are what most people use for there networks as
 
 
 
+Equitment used
+
+-> TPLink Router
+-> Kali linux
+-> wireshark
+-> aircrack-ng
+-> long range usb adapter
+
+
+
 Example attack on a WPA/WPA2 network
+
 
 
 
