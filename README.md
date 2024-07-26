@@ -106,7 +106,7 @@ once thats done and you find your network that you are on then
 you can use this command to collect the authentication handshake. The purpose of this is to capture the 4-way authentication handshake for the network we are intrestend in.
 
 
-Now im going to open up wireshark and type 'eapol' in the top search bar in wireshark. Eapol is 
+Now im going to open up wireshark and type 'eapol' in the top search bar in wireshark. Eapol is a filter that captures traffic to show only eapol(Extensible Authentication protocol over LAN) frames. Eapol is used in WPA/WPA2 authentication proccesses.
 
 
 
