@@ -51,6 +51,23 @@ Equitment used
 
 
 
+Example attack on a WPA/WPA2 network
+
+
+
+
+Im using wireshark as a sniffer to sniff the network tarffic on
+the TPLink router. As well im first going to start up aircrack-ng
+and start up the wlan.
+
+
+
+
+
+
+
+
+
 
 
 
